@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512925122495",
+    "project_id": "carros-c0280",
+    "storage_bucket": "carros-c0280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512925122495:android:4cabb9bb7ce54a32cbab0a",
+        "android_client_info": {
+          "package_name": "com.mycompany.veiculoscheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8t0rYQkiad6UD23tYIT7vR4T0dXRVUVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
